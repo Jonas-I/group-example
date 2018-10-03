@@ -32,12 +32,12 @@ Mobile App Dev - App Brainstorming Example
 5. 
 6. ...   
 
-## Top 3 New App Ideas
+## Top 3 New App Ideas - List
 1. Student Behavior Tracker
 2. Tutor Finder
 3. Used Book Exchange
 
-## New App Ideas - Evaluate and Categorize
+## Top 3 New app Ideas - Evaluate and Categorize
 1. Student Behavior Tracker
    - **Description**: Allows teachers, students and parents to stay up to date with student behavior in real time. Teachers can acknowledge positive student behavior when it happens, students can receive instant positive reinforcement and parents can be more tuned in to how their child is doing at school.
    - **Category:** Social Networking
