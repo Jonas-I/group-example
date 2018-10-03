@@ -3,7 +3,7 @@
 ### App Description
 // TODO: Add App Description
 
-### App Idea Evaluation
+### General App Attributes
 // TODO: Evaluate app across the following categories using the App Evaluation Protocol.
 
 - Mobile: 
